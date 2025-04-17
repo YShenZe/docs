@@ -1,1 +1,1 @@
-#123456
+<div class="container"> <!-- Slot A --> <div data-swapy-slot="a"> <!-- Item A --> <div data-swapy-item="a"> <div>A</div> </div> </div> <!-- Slot B --> <div data-swapy-slot="b"> <!-- Item B --> <div data-swapy-item="b"> <div>B</div> </div> </div> <!-- Slot C --> <div data-swapy-slot="c"> <!-- Item C --> <div data-swapy-item="c"> <div>C</div> </div> </div> </div>#123456
